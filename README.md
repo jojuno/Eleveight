@@ -14,5 +14,5 @@ Education Level Type (React) - reference type to add to the forms used by the ad
 Search Bar (SQL, C#, React) - visible throughout the website<br>
 User Connection (C#, React) - connections between users, like friends on Facebook<br>
 # Website - Beat Rhino's Web Page
-Personal project displaying the latest news about Beat Rhino and a form for messaging Beat Rhino with the ability to send, show, update and delete messages.
+Displaying the latest news about Beat Rhino and a form for messaging Beat Rhino with the ability to send, show, update and delete messages.
 # Thank you for taking time to view my code. 
