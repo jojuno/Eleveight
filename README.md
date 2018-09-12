@@ -1,7 +1,6 @@
 # Portfolio
 
 # App - Eleveight
-//
 These are the components I worked on for the app.
 //
 Change Password (C#, React)
@@ -28,8 +27,5 @@ User Connection (C#, React) - connections between users, like friends on Faceboo
 //
 //
 # Website - Beat Rhino's Web Page
-//
 Personal Project displaying the latest news about Beat Rhino and a form for messaging Beat Rhino with the ability to send, show, update and delete messages
-//
-//
-Thank you for taking time to view my code. 
+# Thank you for taking time to view my code. 
