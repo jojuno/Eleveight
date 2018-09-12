@@ -1,5 +1,3 @@
-# Portfolio
-
 # App - Eleveight
 These are the components I worked on for the app. <br>
 Change Password (C#, React) <br>
@@ -13,6 +11,4 @@ Organization Type (React) - reference type to add to the forms used by the admin
 Education Level Type (React) - reference type to add to the forms used by the admin of the app<br>
 Search Bar (SQL, C#, React) - visible throughout the website<br>
 User Connection (C#, React) - connections between users, like friends on Facebook<br>
-# Website - Beat Rhino's Web Page
-Displaying the latest news about Beat Rhino and a form for messaging Beat Rhino with the ability to send, show, update and delete messages.
 # Thank you for taking time to view my code. 
