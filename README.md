@@ -1,7 +1,7 @@
 # Portfolio
 
 # App - Eleveight
-These are the components I worked on for the app.
+These are the components I worked on for the app. <br>
 //
 Change Password (C#, React)
 //
