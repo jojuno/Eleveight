@@ -2,14 +2,10 @@
 
 # App - Eleveight
 These are the components I worked on for the app. <br>
-//
-Change Password (C#, React)
-//
-App Token Service (C#) - added the "ChangePassword" function
-//
-App Token Controller (C#) - added the "changePassword" route
-//
-Privacy Policy (SQL, C#, React)
+Change Password (C#, React) <br>
+App Token Service (C#) - added the "ChangePassword" function<br>
+App Token Controller (C#) - added the "changePassword" route<br>
+Privacy Policy (SQL, C#, React)<br>
 //
 Contact Us (SQL, C#, React)
 //
