@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Eleveight.Models.Domain.Common
+namespace SocialMediaApp132.Models.Domain.Common
 {
     public class LanguageType
     {
