@@ -1,8 +1,8 @@
-﻿using Eleveight.Models.Domain.PrivacyPolicies;
-using Eleveight.Models.Requests.PrivacyPolicies;
+﻿using SocialMediaApp132.Models.Domain.PrivacyPolicies;
+using SocialMediaApp132.Models.Requests.PrivacyPolicies;
 using System.Collections.Generic;
 
-namespace Eleveight.Services.PrivacyPolicies
+namespace SocialMediaApp132.Services.PrivacyPolicies
 {
     public interface IPrivacyPolicyService
     {
