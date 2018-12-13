@@ -1,11 +1,11 @@
-﻿using Eleveight.Models.Domain.PrivacyPolicies;
-using Eleveight.Models.Requests.PrivacyPolicies;
-using Eleveight.Models.Responses;
-using Eleveight.Services.PrivacyPolicies;
+﻿using SocialMediaApp132.Models.Domain.PrivacyPolicies;
+using SocialMediaApp132.Models.Requests.PrivacyPolicies;
+using SocialMediaApp132.Models.Responses;
+using SocialMediaApp132.Services.PrivacyPolicies;
 using System;
 using System.Web.Http;
 
-namespace Eleveight.Web.Controllers.Api.PrivacyPolicies
+namespace SocialMediaApp132.Web.Controllers.Api.PrivacyPolicies
 {
     [RoutePrefix("api/PrivacyPolicies")]
     public class PrivacyPolicyController : ApiController
