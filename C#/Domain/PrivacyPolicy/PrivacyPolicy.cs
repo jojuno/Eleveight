@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Eleveight.Models.Domain.PrivacyPolicies
+namespace SocialMediaApp132.Models.Domain.PrivacyPolicies
 {
     public class PrivacyPolicy
     {
