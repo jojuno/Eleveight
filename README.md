@@ -3,7 +3,7 @@ These are the components I worked on. <br>
 * Change Password (https://github.com/jojuno/Work-Samples/tree/master/Change%20Password)
     * C#
     * React
-      screenshot
+      ![alt text](https://github.com/jojuno/Work-Samples/blob/master/change%20password.PNG)
 * Privacy Policy (https://github.com/jojuno/Work-Samples/tree/master/Privacy%20Policy)
     * SQL
     * C# 
