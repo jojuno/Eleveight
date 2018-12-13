@@ -1,14 +1,14 @@
-﻿using Eleveight.Models.Domain.Common;
-using Eleveight.Models.Requests.App;
-using Eleveight.Models.Requests.Common;
-using Eleveight.Models.Responses;
-using Eleveight.Services;
-using Eleveight.Services.App;
-using Eleveight.Services.Common;
+﻿using SocialMediaApp132.Models.Domain.Common;
+using SocialMediaApp132.Models.Requests.App;
+using SocialMediaApp132.Models.Requests.Common;
+using SocialMediaApp132.Models.Responses;
+using SocialMediaApp132.Services;
+using SocialMediaApp132.Services.App;
+using SocialMediaApp132.Services.Common;
 using System;
 using System.Web.Http;
 
-namespace Eleveight.Web.Controllers.Api.Common
+namespace SocialMediaApp132.Web.Controllers.Api.Common
 {
     [RoutePrefix("api/addressTypes")]
     public class AddressTypeController : ApiController
