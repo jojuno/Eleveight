@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Eleveight.Models.Requests.Common
+namespace SocialMediaApp132.Models.Requests.Common
 {
     public class LanguageTypeUpdateRequest : LanguageTypeAddRequest
     {
