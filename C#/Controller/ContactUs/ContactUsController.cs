@@ -1,13 +1,13 @@
-﻿using Eleveight.Models.Domain.Tools;
-using Eleveight.Models.Requests.Utilities;
-using Eleveight.Models.Responses;
-using Eleveight.Services.Tools;
+﻿using SocialMediaApp132.Models.Domain.Tools;
+using SocialMediaApp132.Models.Requests.Utilities;
+using SocialMediaApp132.Models.Responses;
+using SocialMediaApp132.Services.Tools;
 using System;
 using System.Collections.Generic;
 using System.Web.Http;
-using Eleveight.Services.App;
+using SocialMediaApp132.Services.App;
 
-namespace Eleveight.Web.Controllers.Api.Utilities
+namespace SocialMediaApp132.Web.Controllers.Api.Utilities
 {
 
     [RoutePrefix("api/utilities/contactUs")]
