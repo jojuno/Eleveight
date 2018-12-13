@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Eleveight.Models.Requests.PrivacyPolicies
+namespace SocialMediaApp132.Models.Requests.PrivacyPolicies
 {
     public class PrivacyPolicyUpdateRequest : PrivacyPolicyAddRequest
     {
