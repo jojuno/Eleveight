@@ -19,14 +19,14 @@ These are the components I worked on for the app. <br>
     * SQL, C#
          * for the forms used by the admin of the app
 * Address Type
-              * SQL, C#
-                  * for the forms used by the admin of the app
-          * Organization Type
-              * React
-                  * for the forms used by the admin of the app
-          * Education Level Type
-              * React
-                  * for the forms used by the admin of the app
-          * User connection
-              * C#, React
-                  * friends like those on Facebook
+    * SQL, C#
+         * for the forms used by the admin of the app
+* Organization Type
+    * React
+         * for the forms used by the admin of the app
+* Education Level Type
+    * React
+         * for the forms used by the admin of the app
+* User connection
+    * C#, React
+         * friends like those on Facebook
