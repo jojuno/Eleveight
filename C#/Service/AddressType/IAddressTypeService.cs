@@ -1,8 +1,8 @@
-﻿using Eleveight.Models.Domain.Common;
-using Eleveight.Models.Requests.Common;
+﻿using SocialMediaApp132.Models.Domain.Common;
+using SocialMediaApp132.Models.Requests.Common;
 using System.Collections.Generic;
 
-namespace Eleveight.Services.Common
+namespace SocialMediaApp132.Services.Common
 {
     public interface IAddressTypeService
     {
