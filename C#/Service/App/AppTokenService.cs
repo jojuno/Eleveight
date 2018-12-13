@@ -1,16 +1,16 @@
-﻿using Eleveight.Models.Domain.App;
-using Eleveight.Models.Domain.User;
-using Eleveight.Models.Requests.App;
-using Eleveight.Models.Requests.ForgotPassword;
-using Eleveight.Services.Tools;
-using Eleveight.Models.Requests.ChangePassword;
+﻿using SocialMediaApp132.Models.Domain.App;
+using SocialMediaApp132.Models.Domain.User;
+using SocialMediaApp132.Models.Requests.App;
+using SocialMediaApp132.Models.Requests.ForgotPassword;
+using SocialMediaApp132.Services.Tools;
+using SocialMediaApp132.Models.Requests.ChangePassword;
 using System;
-using Eleveight.Services.Cryptography;
+using SocialMediaApp132.Services.Cryptography;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace Eleveight.Services.App
+namespace SocialMediaApp132.Services.App
 {
     public class AppTokenService : BaseService, IAppTokenService
     {
