@@ -41,16 +41,16 @@ class PrivacyPolicyPagePublic extends React.Component<{}, IPrivacyPolicyPagePubl
     render() {
         return (
             <React.Fragment>
-                <h2 className="card-header">Eleveight Privacy Statement</h2>
+                <h2 className="card-header">SocialMediaApp132 Privacy Statement</h2>
                 <Card>
                     <div>
                         <p>
                             Your privacy is important to us. This privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes.
                         </p>
                         <p>
-                            Eleveight offers server products used to help operate enterprises worldwide, devices you use in your home, software students use at school, and services developers use to create and host what’s next. References to Eleveight products in this statement include Microsoft services, websites, apps, software, servers, and devices.</p>
+                            SocialMediaApp132 offers server products used to help operate enterprises worldwide, devices you use in your home, software students use at school, and services developers use to create and host what’s next. References to SocialMediaApp132 products in this statement include Microsoft services, websites, apps, software, servers, and devices.</p>
                         <p>
-                            Please read the product-specific details in this privacy statement, which provide additional relevant information. This statement applies to Eleveight’s interactions with you and the Eleveight products listed below, as well as other Eleveight products that display this statement.</p>
+                            Please read the product-specific details in this privacy statement, which provide additional relevant information. This statement applies to SocialMediaApp132’s interactions with you and the SocialMediaApp132 products listed below, as well as other SocialMediaApp132 products that display this statement.</p>
                     </div>
                 </Card>
                 <br></br>
