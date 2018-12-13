@@ -1,8 +1,8 @@
-﻿using Eleveight.Models.Domain.App;
-using Eleveight.Models.Requests.App;
+﻿using SocialMediaApp132.Models.Domain.App;
+using SocialMediaApp132.Models.Requests.App;
 using System.Collections.Generic;
 
-namespace Eleveight.Services.App
+namespace SocialMediaApp132.Services.App
 {
     public interface IAppLogService
     {
