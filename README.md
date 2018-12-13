@@ -3,13 +3,17 @@ These are the components I worked on for the app. <br>
 * Change Password
     * C#, React
 * Privacy Policy
-    * SQL, C#, React
+    * SQL
+    * C# (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/PrivacyPolicy/PrivacyPolicyController.cs)
+    * React
 * Contact Us
     * SQL
     * C# (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/ContactUs/ContactUsController.cs)
     * React
 * Search Bar
-    * SQL, C#, React
+    * SQL
+    * C# (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/SearchBar/SearchBarResultsController.cs)
+    * React
 * App Token Service
     * C#
       * added the "ChangePassword" function
