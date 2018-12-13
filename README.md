@@ -11,10 +11,10 @@ These are the components I worked on for the app. <br>
     * SQL, C#, React
 * App Token Service
     * C#
-* added the "ChangePassword" function
-    * App Token Controller
-* C#
-    * added the "changePassword" API route
+      * added the "ChangePassword" function
+* App Token Controller
+    * C#
+      * added the "changePassword" API route
 * Language Type
     * SQL, C#
          * for the forms used by the admin of the app
