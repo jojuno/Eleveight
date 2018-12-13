@@ -1,12 +1,12 @@
-﻿using Eleveight.Models.Domain.Utilities;
-using Eleveight.Models.Requests.Utilities;
-using Eleveight.Services.Tools;
+﻿using SocialMediaApp132.Models.Domain.Utilities;
+using SocialMediaApp132.Models.Requests.Utilities;
+using SocialMediaApp132.Services.Tools;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
-using Eleveight.Services.Utilities;
+using SocialMediaApp132.Services.Utilities;
 
-namespace Eleveight.Services.Utilities
+namespace SocialMediaApp132.Services.Utilities
 {
     public class SearchBarResultsService : BaseService, ISearchBarResultsService
     {
