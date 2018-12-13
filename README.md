@@ -17,12 +17,12 @@ These are the components I worked on for the app. <br>
     * C# 
       * controller (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/SearchBar/SearchBarResultsController.cs)
     * React
-* App Token Service
-    * C#
-      * added the "ChangePassword" function
-* App Token Controller
-    * C# (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/App/AppTokenController.cs)
-      * added the "changePassword" API route
+* App Token 
+    * C# 
+      * controller (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/App/AppTokenController.cs)
+         * added the "changePassword" API route
+      * service
+         * added the "ChangePassword" function
 * Language Type
     * for the forms used by the admin of the app
          * SQL
