@@ -1,4 +1,4 @@
-﻿USE [C56_SocialMediaApp132]
+﻿USE [SocialMediaApp132]
 GO
 /****** Object:  StoredProcedure [dbo].[AddressType_Delete]    Script Date: 9/11/2018 10:08:42 PM ******/
 SET ANSI_NULLS ON
