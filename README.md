@@ -18,10 +18,10 @@ These are the components I worked on for the app. <br>
     * SQL, C#
          * for the forms used by the admin of the app
 * Address Type
-    * SQL
-    * C#
-      * https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/AddressType/AddressTypeController.cs
-         * for the forms used by the admin of the app
+    * for the forms used by the admin of the app
+      * SQL
+       * C# (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/AddressType/AddressTypeController.cs)
+     
 * Organization Type
     * React
          * for the forms used by the admin of the app
