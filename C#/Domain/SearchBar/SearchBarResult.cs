@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Eleveight.Models.Domain.Utilities
+namespace SocialMediaApp132.Models.Domain.Utilities
 {
     public class SearchBarResult
     {
