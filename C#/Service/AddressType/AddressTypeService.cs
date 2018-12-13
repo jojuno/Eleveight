@@ -1,11 +1,11 @@
-﻿using Eleveight.Models.Domain.Common;
-using Eleveight.Models.Requests.Common;
-using Eleveight.Services.Tools;
+﻿using SocialMediaApp132.Models.Domain.Common;
+using SocialMediaApp132.Models.Requests.Common;
+using SocialMediaApp132.Services.Tools;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace Eleveight.Services.Common
+namespace SocialMediaApp132.Services.Common
 {
     public class AddressTypeService : BaseService, IAddressTypeService
     {
