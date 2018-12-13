@@ -1,7 +1,7 @@
 # Social media app based on scholarships
 These are the components I worked on for the app. <br>
 
- Markup : * Change Password
+* Change Password
               * C#, React
           * Privacy Policy
               * SQL, C#, React
