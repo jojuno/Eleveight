@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Eleveight.Models.Requests.ChangePassword
+namespace SocialMediaApp132.Models.Requests.ChangePassword
 {
     public class ChangePasswordUserBaseUpdateRequest
     {
