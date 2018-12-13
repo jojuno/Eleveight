@@ -3,14 +3,12 @@ These are the components I worked on. <br>
 * Change Password (https://github.com/jojuno/Work-Samples/tree/master/Change%20Password)
     * C#
     * React
-      ![alt text](https://github.com/jojuno/Work-Samples/blob/master/change%20password.PNG)
+      ![alt text](https://github.com/jojuno/Work-Samples/blob/master/change%20password%20display.PNG)
 * Privacy Policy (https://github.com/jojuno/Work-Samples/tree/master/Privacy%20Policy)
     * SQL
     * C# 
     * React
-      screenshot
-      * public page
-      screenshot
+      ![alt text](https://github.com/jojuno/Work-Samples/blob/master/privacy%20policy%20public%20display.PNG)
 * Contact Us (https://github.com/jojuno/Work-Samples/tree/master/Contact%20Us)
     * SQL
     * C# 
@@ -29,6 +27,8 @@ These are the components I worked on. <br>
     * for the forms used by the admin
       * SQL
       * C# 
+      * React
+      ![alt text](https://github.com/jojuno/Work-Samples/blob/master/language%20type%20display.PNG)
 * Address Type (https://github.com/jojuno/Work-Samples/tree/master/Address%20Type)
     * for the forms used by the admin
       * SQL
