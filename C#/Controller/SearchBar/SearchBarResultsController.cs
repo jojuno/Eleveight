@@ -1,14 +1,14 @@
-﻿using Eleveight.Models.Domain.Utilities;
-using Eleveight.Models.Responses;
-using Eleveight.Models.Requests.App;
-using Eleveight.Services;
-using Eleveight.Services.App;
-using Eleveight.Services.Utilities;
+﻿using SocialMediaApp132.Models.Domain.Utilities;
+using SocialMediaApp132.Models.Responses;
+using SocialMediaApp132.Models.Requests.App;
+using SocialMediaApp132.Services;
+using SocialMediaApp132.Services.App;
+using SocialMediaApp132.Services.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Web.Http;
 
-namespace Eleveight.Web.Controllers.Api.Common
+namespace SocialMediaApp132.Web.Controllers.Api.Common
 {
 
     [RoutePrefix("api/search")]
