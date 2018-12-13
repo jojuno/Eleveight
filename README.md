@@ -52,16 +52,20 @@ These are the components I worked on for the app. <br>
     * for the forms used by the admin of the app
       * SQL
        * C# 
-        * controller (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/AddressType/AddressTypeController.cs)
-        * domain (https://github.com/jojuno/Work-Samples/blob/master/C%23/Domain/AddressType/AddressType.cs)
-        * add request (https://github.com/jojuno/Work-Samples/blob/master/C%23/Requests/AddressType/AddressTypeAddRequest.cs)
-        * update request (https://github.com/jojuno/Work-Samples/blob/master/C%23/Requests/AddressType/AddressTypeAddRequest.cs)
-        * service (https://github.com/jojuno/Work-Samples/blob/master/C%23/Service/AddressType/AddressTypeService.cs)
-        * service interface (https://github.com/jojuno/Work-Samples/blob/master/C%23/Service/AddressType/IAddressTypeService.cs)
+         * controller (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/AddressType/AddressTypeController.cs)
+         * domain (https://github.com/jojuno/Work-Samples/blob/master/C%23/Domain/AddressType/AddressType.cs)
+         * add request (https://github.com/jojuno/Work-Samples/blob/master/C%23/Requests/AddressType/AddressTypeAddRequest.cs)
+         * update request (https://github.com/jojuno/Work-Samples/blob/master/C%23/Requests/AddressType/AddressTypeAddRequest.cs)
+         * service (https://github.com/jojuno/Work-Samples/blob/master/C%23/Service/AddressType/AddressTypeService.cs)
+         * service interface (https://github.com/jojuno/Work-Samples/blob/master/C%23/Service/AddressType/IAddressTypeService.cs)
 * Organization Type
     * React
          * for the forms used by the admin of the app
-            * 
+            * API (https://github.com/jojuno/Work-Samples/blob/master/React/OrganizationType/OrganizationTypeApi.tsx)
+            * form (https://github.com/jojuno/Work-Samples/blob/master/React/OrganizationType/OrganizationTypeForm.tsx)
+            * list (https://github.com/jojuno/Work-Samples/blob/master/React/OrganizationType/OrganizationTypeList.tsx)
+            * page (https://github.com/jojuno/Work-Samples/blob/master/React/OrganizationType/OrganizationTypePage.tsx)
+            screenshot
 * Education Level Type
     * React
          * for the forms used by the admin of the app
