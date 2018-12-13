@@ -13,12 +13,11 @@ These are the components I worked on. <br>
     * SQL
     * C# 
     * React
-      screenshot
+    ![alt text](https://github.com/jojuno/Work-Samples/blob/master/contact%20us%20display.PNG)
 * Search Bar - look up users, scholarships, or organizations (https://github.com/jojuno/Work-Samples/tree/master/Search%20Bar)
     * SQL
     * C# 
     * React
-      screenshot
 * App Token - used for account access in the back-end (C#) (https://github.com/jojuno/Work-Samples/tree/master/App%20Token)
     * C# 
          * added the "changePassword" API route
@@ -33,17 +32,17 @@ These are the components I worked on. <br>
     * for the forms used by the admin
       * SQL
       * C# 
+      * React
 * Organization Type - to specify types of organizations that can be used on forms(https://github.com/jojuno/Work-Samples/tree/master/Organization%20Type)
     * React
          * for the forms used by the admin
-            screenshot
+         ![alt text](https://github.com/jojuno/Work-Samples/blob/master/organization%20type%20display.PNG)
 * Education Level Type - to specify types of education levels that can be used on forms(https://github.com/jojuno/Work-Samples/tree/master/Education%20Level%20Type)
     * React
          * for the forms used by the admin
-            screenshot
+        ![alt text](https://github.com/jojuno/Work-Samples/blob/master/education%20level%20type.PNG)
          
 * User connection - functions like friends on Facebook (https://github.com/jojuno/Work-Samples/tree/master/User%20Connections)
     * C#
     * React
-         screenshot
          
