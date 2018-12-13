@@ -1,13 +1,13 @@
-﻿using Eleveight.Models.Domain.PrivacyPolicies;
-using Eleveight.Models.Requests.PrivacyPolicies;
-using Eleveight.Services.Tools;
+﻿using SocialMediaApp132.Models.Domain.PrivacyPolicies;
+using SocialMediaApp132.Models.Requests.PrivacyPolicies;
+using SocialMediaApp132.Services.Tools;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 
 //folder name can't be the same as the domain file name
 
-namespace Eleveight.Services.PrivacyPolicies
+namespace SocialMediaApp132.Services.PrivacyPolicies
 {
     public class PrivacyPolicyService : BaseService, IPrivacyPolicyService
     {
