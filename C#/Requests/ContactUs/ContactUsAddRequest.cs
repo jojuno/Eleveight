@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Eleveight.Models.Requests.Utilities
+namespace SocialMediaApp132.Models.Requests.Utilities
 {
     public class ContactUsAddRequest
     {
