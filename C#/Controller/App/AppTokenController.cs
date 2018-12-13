@@ -1,18 +1,18 @@
-﻿using Eleveight.Models.Domain.App;
-using Eleveight.Models.Domain.Tools;
-using Eleveight.Models.Requests.App;
-using Eleveight.Models.Requests.ForgotPassword;
-using Eleveight.Models.Responses;
-using Eleveight.Services;
-using Eleveight.Services.App;
-using Eleveight.Services.Tools;
+﻿using SocialMediaApp132.Models.Domain.App;
+using SocialMediaApp132.Models.Domain.Tools;
+using SocialMediaApp132.Models.Requests.App;
+using SocialMediaApp132.Models.Requests.ForgotPassword;
+using SocialMediaApp132.Models.Responses;
+using SocialMediaApp132.Services;
+using SocialMediaApp132.Services.App;
+using SocialMediaApp132.Services.Tools;
 using System.Threading.Tasks;
-using Eleveight.Models.Requests.ChangePassword;
+using SocialMediaApp132.Models.Requests.ChangePassword;
 using System;
 using System.Collections.Generic;
 using System.Web.Http;
 
-namespace Eleveight.Web.Controllers.Api.App
+namespace SocialMediaApp132.Web.Controllers.Api.App
 {
     [AllowAnonymous]
     [RoutePrefix("api/App/AppTokens")]
