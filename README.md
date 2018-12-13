@@ -12,7 +12,8 @@ These are the components I worked on for the app. <br>
     * React
 * Search Bar
     * SQL
-    * C# (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/SearchBar/SearchBarResultsController.cs)
+    * C# 
+      * Controller (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/SearchBar/SearchBarResultsController.cs)
     * React
 * App Token Service
     * C#
@@ -23,7 +24,8 @@ These are the components I worked on for the app. <br>
 * Language Type
     * for the forms used by the admin of the app
          * SQL
-         * C# (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/LanguageType/LanguageTypeController.cs)
+         * C# 
+            * controller (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/LanguageType/LanguageTypeController.cs)
          
 * Address Type
     * for the forms used by the admin of the app
