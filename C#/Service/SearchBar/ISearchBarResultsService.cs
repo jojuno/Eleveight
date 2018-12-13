@@ -1,8 +1,8 @@
-﻿using Eleveight.Models.Domain.Utilities;
-using Eleveight.Models.Requests.Utilities;
+﻿using SocialMediaApp132.Models.Domain.Utilities;
+using SocialMediaApp132.Models.Requests.Utilities;
 using System.Collections.Generic;
 
-namespace Eleveight.Services.Utilities
+namespace SocialMediaApp132.Services.Utilities
 {
     public interface ISearchBarResultsService
     {
