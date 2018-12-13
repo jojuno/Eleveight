@@ -4,16 +4,18 @@ These are the components I worked on for the app. <br>
     * C#, React
 * Privacy Policy
     * SQL
-    * C# (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/PrivacyPolicy/PrivacyPolicyController.cs)
+    * C# 
+      * controller (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/PrivacyPolicy/PrivacyPolicyController.cs)
     * React
 * Contact Us
     * SQL
-    * C# (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/ContactUs/ContactUsController.cs)
+    * C# 
+      * controller (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/ContactUs/ContactUsController.cs)
     * React
 * Search Bar
     * SQL
     * C# 
-      * Controller (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/SearchBar/SearchBarResultsController.cs)
+      * controller (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/SearchBar/SearchBarResultsController.cs)
     * React
 * App Token Service
     * C#
@@ -30,7 +32,8 @@ These are the components I worked on for the app. <br>
 * Address Type
     * for the forms used by the admin of the app
       * SQL
-       * C# (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/AddressType/AddressTypeController.cs)
+       * C# 
+        * controller (https://github.com/jojuno/Work-Samples/blob/master/C%23/Controller/AddressType/AddressTypeController.cs)
      
 * Organization Type
     * React
