@@ -1,6 +1,8 @@
 # Social media app based on scholarships
 These are the components I worked on.
-You can test the features by logging into eleveight.azurewebsites.net with a test account. <br>
+You can test the features by logging into... <br>
+eleveight.azurewebsites.net <br>
+with a test account. <br>
 Email: emilythecm@tuckiez.org
 Password: password111 <br>
 * Change Password - lets the user change the account password (https://github.com/jojuno/Work-Samples/tree/master/Change%20Password)
