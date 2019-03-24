@@ -2,7 +2,7 @@
 These are the components I worked on.
 You can test the features by logging into... <br>
 eleveight.azurewebsites.net with a test account. <br>
-Email: emilythecm@tuckiez.org
+Email: emilythecm@tuckiez.org <br>
 Password: password111 <br>
 * Change Password - lets the user change the account password (https://github.com/jojuno/Work-Samples/tree/master/Change%20Password)
     * click the top right corner of the website on the profile thumbnail picture, then click "account settings", then you should see it on the left
