@@ -2,11 +2,9 @@
 These are the components I worked on.
 You can test the features with a test account.
 Email: emilythecm@tuckiez.org
-Password: password111
-
-<br>
-    * Change Password - lets the user change the account password (https://github.com/jojuno/Work-Samples/tree/master/Change%20Password)
-    * click the top right corner of the website on the profile thumbnail, then click "account settings", then you should see it on the left
+Password: password111 <br>
+* Change Password - lets the user change the account password (https://github.com/jojuno/Work-Samples/tree/master/Change%20Password)
+    * click the top right corner of the website on the profile thumbnail picture, then click "account settings", then you should see it on the left
     * C#
     * React
       ![alt text](https://github.com/jojuno/Work-Samples/blob/master/change%20password%20display.PNG)
@@ -53,6 +51,7 @@ Password: password111
         ![alt text](https://github.com/jojuno/Work-Samples/blob/master/education%20level%20type.PNG)
          
 * User connection - functions like friends on Facebook (https://github.com/jojuno/Work-Samples/tree/master/User%20Connections)
+    * click on the profile thumbnail picture on the top right corner of the website. under "account settings", you should see a tab called "connections" which displays pending and current connections that you have
     * C#
     * React
          
